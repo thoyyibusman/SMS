@@ -1,0 +1,21 @@
+body{
+    max-width: 1525px;
+    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+    
+}
+.container-fluid{
+    max-width: 1530px;
+    background: -webkit-linear-gradient(left, #00c6ff, #3931af);
+    
+}
+
+.sms{
+    font-family: "Audiowide", sans-serif;
+}
+
+.exp{
+    font-size: 3em;
+    margin-top: 20%;
+    line-height: 140%;
+    font-family: 'Times New Roman', Times, serif;
+}
